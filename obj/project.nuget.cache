@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4x/DkoBVwuQ=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\aiWork\\code\\VhdxManager\\VhdxManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\longl\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

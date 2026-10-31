@@ -1,0 +1,2 @@
+D:\Work\aiWork\code\VhdxManager\dist\VhdxManager.pdb
+D:\Work\aiWork\code\VhdxManager\dist\VhdxManager.exe

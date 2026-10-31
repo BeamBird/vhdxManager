@@ -1,0 +1,14 @@
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.AssemblyInfoInputs.cache
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.AssemblyInfo.cs
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.csproj.CoreCompileInputs.cache
+D:\Work\aiWork\code\VhdxManager\bin\Debug\net8.0-windows\win-x64\VhdxManager.exe
+D:\Work\aiWork\code\VhdxManager\bin\Debug\net8.0-windows\win-x64\VhdxManager.deps.json
+D:\Work\aiWork\code\VhdxManager\bin\Debug\net8.0-windows\win-x64\VhdxManager.runtimeconfig.json
+D:\Work\aiWork\code\VhdxManager\bin\Debug\net8.0-windows\win-x64\VhdxManager.dll
+D:\Work\aiWork\code\VhdxManager\bin\Debug\net8.0-windows\win-x64\VhdxManager.pdb
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.dll
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\refint\VhdxManager.dll
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.pdb
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\VhdxManager.genruntimeconfig.cache
+D:\Work\aiWork\code\VhdxManager\obj\Debug\net8.0-windows\win-x64\ref\VhdxManager.dll
